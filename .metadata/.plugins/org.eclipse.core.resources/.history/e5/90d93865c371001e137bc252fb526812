@@ -1,0 +1,9 @@
+package com.example.user.service.services.impl;
+
+import java.util.List;
+
+import com.example.user.service.entities.User;
+
+public class UserServiceImpl implements UserService {
+
+}
